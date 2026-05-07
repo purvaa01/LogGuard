@@ -95,15 +95,16 @@ logguard/
 │
 ├── README.md
 
+---
 
-# 📥 Clone The Repository
+## 📥 Clone The Repository
 
 ```bash
 git clone https://github.com/your-username/logguard.git
 
 cd logguard
 
-# ▶️ Run The Project
+## ▶️ Run The Project
 
 ## 1️⃣ Give Execute Permission
 
