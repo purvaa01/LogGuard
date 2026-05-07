@@ -22,7 +22,7 @@ if [ "$(find $temp_dir -type f)" ]; then
 
 
  	#create zip archive
-	tar -czf $archive_dir/$archive_name -C $temp_dir
+	tar -czf $archive_dir/$archive_name -C $temp_dir .
 
 	echo "Archive created: $archive_name"
 
